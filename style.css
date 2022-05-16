@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: gray;
+}
+
+#nav_bar {
+    font-size: 20px;
+    padding: 30px;
+    background-color: orange;
+}
+
+#nav_bar a{
+    border-color: black;
+    border-width: 2px;
+    border-style:solid;
+    float: right;
+    padding: 0px 30px 0px 30px;
+}
+
+#name {
+    display: inline;
+    font-size: 30px;
+}
+
